@@ -1,0 +1,5 @@
+# Ignore the CapstoneGithub/CapstonGithubVenv folder
+CapstoneGithub/CapstonGithubVenv/
+
+# Ignore the CapstoneGithub/images folder
+CapstoneGithub/images/
